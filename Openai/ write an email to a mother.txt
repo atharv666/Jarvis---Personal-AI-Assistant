@@ -1,0 +1,19 @@
+Openai response for Prompt: using artificial intelligence write an email to a mother 
+**************** 
+
+Subject: Thinking of you!
+
+Dear [Mother's Name],
+
+Just wanted to reach out and see how you're doing.  I was thinking about you and wanted to send a quick message. How was your [mention something specific you know she did recently, e.g., week, trip to the grocery store, visit with a friend]?
+
+[Optional: Add a specific detail here.  For example:
+* "I made [dish she likes] the other day and it made me think of you."
+* "I saw [something that reminded you of her] and it brought a smile to my face."
+* "I'm working on [project] and it reminded me of the time you helped me with [similar project]." ]
+
+Hope you're having a wonderful week!  Let me know if there's anything I can do for you.
+
+Love,
+
+[Your Name]

@@ -1,0 +1,20 @@
+Openai response for Prompt: Jarvis using artificial intelligence write an email to a boss for salary increment 
+**************** 
+
+Subject: Request for Salary Review - [Your Name]
+
+Dear [Boss's Name],
+
+I hope this email finds you well.
+
+I am writing to respectfully request a review of my current salary. I have been with [Company Name] for [Number] years, and I am proud of the contributions I have made to the team during this time. 
+
+[Insert 2-3 specific accomplishments that demonstrate your value to the company. Be concise and focus on quantifiable results.]
+
+I am consistently exceeding expectations in my role and am eager to continue my growth and development within the company. I am confident that my skills and experience are in line with the current market rate for [Your Job Title] with my level of expertise. 
+
+I am available to discuss my performance and salary expectations at your convenience. Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name] 
